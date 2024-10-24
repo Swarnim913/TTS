@@ -1,0 +1,1 @@
+Kubernetes allows us to manage containerized applications easily.

@@ -1,0 +1,1 @@
+Using a VPN helps ensure that APIs are accessed securely over public networks.

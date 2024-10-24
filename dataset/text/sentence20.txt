@@ -1,0 +1,1 @@
+OAuth allows an app to gain access to a user’s account without sharing the password.

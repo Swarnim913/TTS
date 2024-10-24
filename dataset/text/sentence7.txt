@@ -1,0 +1,1 @@
+A good understanding of HTTP methods is crucial for designing RESTful services.
